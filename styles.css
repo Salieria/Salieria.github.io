@@ -1,0 +1,45 @@
+body {
+  background-color: #29313d;
+
+  font-family: "Inconsolata";
+
+}
+
+.accessbar p {
+
+color: #00ff00;
+font-size: 20px;
+
+
+}
+
+ul {
+
+list-style-type: none;
+margin: 0;
+padding: 0;
+
+}
+
+.navbar li {
+
+display: inline;
+
+padding: 10;
+
+font-size: 20px;
+
+}
+
+a {
+ 
+color: #00ff00;
+
+}
+
+a:hover {
+
+background-color: #55ff00;
+color: #000;
+
+}
