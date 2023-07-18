@@ -43,3 +43,32 @@ background-color: #55ff00;
 color: #000;
 
 }
+
+
+.pie{
+
+background-color: #29313d;
+color: #29313d;
+width: 100%;
+position: fixed;
+bottom: 0px;
+
+}
+
+.previous {
+
+  position: fixed;
+  bottom: 0px;
+  left: 5px;
+  color:black;
+
+}
+
+.next {
+
+  position: fixed;
+  bottom: 0px;
+  right: 5px;
+  color:black;
+
+}
